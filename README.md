@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <br>
 
-<img align="right" alt="coding" width="350" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1272.gif">
+<img align="right" alt="coding" width="350" src="https://www.icegif.com/wp-content/uploads/2024/03/kuromi-icegif-4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbye&label=Profile%20views&color=1ca0f2&style=plastic" alt="ahmedgito" /> </p>
 
